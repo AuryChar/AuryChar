@@ -1,4 +1,4 @@
-<h1>Hi friends, i'm Aury</h1>![Bocchi The Rock](https://github.com/user-attachments/assets/826a1e18-9cbb-4fb3-ab15-6a661bc81d8f)
+<h1>Hi friends, i'm Aury</h1>
 
 
 <hr>
