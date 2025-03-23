@@ -1,7 +1,8 @@
-<h2 align="left">Hi, i'm Aury!</h2>
+<h2 align="center">Hi, i'm Aury!</h2>
 
 ###
 
+<p align="center">I am a full-stack developer, I've been working at <a href="https://github.com/Hsyst"><b>Hsyst Org</b></a> as a front-end developer for 1 month now, and that's it.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AuryChar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
