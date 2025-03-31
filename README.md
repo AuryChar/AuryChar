@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a full-stack developer and @ChafterInnovations Sub-Owner, I've been working at <a href="https://github.com/Hsyst"><b>Hsyst Org</b></a> as a front-end developer, and that's it.</p>
+<p align="center">I am a full-stack developer and <a href="https://github.com/ChafterInnovations"><b>ChafterInnovations</b></a> Sub-Owner. I've been working at <a href="https://github.com/Hsyst"><b>Hsyst Org</b></a> as a front-end developer, and that's it.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AuryChar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
