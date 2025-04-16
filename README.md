@@ -31,6 +31,10 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rust/ffffff" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/f392df" height="30" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/00a4ff" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
