@@ -31,6 +31,10 @@
   <img src="https://cdn.simpleicons.org/rust/dea584" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/00a4ff" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/00ff69" height="30" alt="mongodb logo"  />
 </div>
 
 ###
