@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/express/ffffff" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/actix/dea584" height="30" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/actix/af3838" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/00ff69" height="30" alt="mongodb logo"  />
   <img width="12" />
