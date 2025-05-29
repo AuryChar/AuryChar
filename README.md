@@ -5,7 +5,7 @@
 <p align="center">I am a back end developer and I've been working at <a href="https://github.com/Hsyst"><b>Hsyst Org</b></a> and <a href="https://github.com/ChafterInnovations"><b>Chafter Innovations</b></a>, and that's it.</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuryChar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AuryChar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AuryChar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&hide=makefile" height="150" alt="languages graph"  />
 </div>
 
