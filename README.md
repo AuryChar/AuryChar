@@ -33,6 +33,8 @@
   <img src="https://cdn.simpleicons.org/mongodb/00ff69" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/5e9cc0" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/5e9cc0" height="30" alt="sqlite logo"  />
 </div>
 
 ###
