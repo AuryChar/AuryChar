@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a back end developer and I've been working at <a href="https://github.com/Hsyst"><b>Hsyst Org</b></a> and <a href="https://github.com/ChafterInnovations"><b>Chafter Innovations</b></a>, and that's it.</p>
+<p align="center">I am a back end developer and I've been working at <a href="https://github.com/Hsyst"><b>Hsyst Org</b></a>, and that's it.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AuryChar&hide_title=false&hide_rank=false&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="stats graph"  />
