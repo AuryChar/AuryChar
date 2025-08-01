@@ -24,10 +24,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rust/dea584" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/00a4ff" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/ffffff" height="30" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/actix/af3838" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/00ff69" height="30" alt="mongodb logo"  />
@@ -40,16 +36,12 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/auryy_dev/" target="_blank">
+  <a href="https://www.instagram.com/aury_dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/invite/VF5zxejj" target="_blank">
+  <a href="https://discord.gg/SBH38MjYuk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AuryChar/count.svg?"  />
 </div>
 
 ###
